@@ -47,5 +47,5 @@
 
 ## ⚙️ ERD 
 
-<img src="https://github.com/gkstjr/AzureHotel-/assets/99389922/5bfc5ea6-04ee-408e-9046-88ba4a8f20c4" width="500" height="500"/>
+<img src="https://github.com/gkstjr/AzureHotel-/assets/99389922/5bfc5ea6-04ee-408e-9046-88ba4a8f20c4" width="1000" height="500"/>
 
